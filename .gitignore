@@ -1,3 +1,1 @@
-data/
-web/app/vendor
-web/app/composer.lock
+.devcontainer/etc/
